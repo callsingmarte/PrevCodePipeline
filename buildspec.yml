@@ -3,6 +3,9 @@ env:
   exported-variables:
     - APP_VERSION_CB
 phases:
+  install:
+    runtime-versions:
+      dotnet: 8.0
   build:
     commands:
       - echo "Leyendo la version de la aplicacion..."
