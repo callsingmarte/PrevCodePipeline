@@ -1,13 +1,20 @@
 version: 0.2
 phases:
-	install:
-		runtime-versions:
-			dotnet: 8.0
-	build:
-		commands:
-			- dotnet restore
-			- dotnet publish -c Release -o output
-	artifacts:
-		files:
-			- '**/*'
-		base-directory: output
+  install:
+    runtime-versions:
+      dotnet: 8.0
+  build:
+    commands:
+      - echo "Restaurando dependencias..."
+      - dotnet restore
+      - echo "Publicando la aplicación en modo Release..."
+      - dotnet publish -c Release -o output
+  post_build:
+    commands:
+      - echo "Creando el paquete de despliegue..."
+      - cd output
+      - zip -r ../application.zip *
+      - cd ..
+  artifacts:
+    files:
+      - application.zip
