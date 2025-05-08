@@ -7,7 +7,7 @@ phases:
     commands:
       - echo "Leyendo la version de la aplicacion..."
       - APP_VERSION=$(cat VERSION.txt)
-      - echo "Version de la aplicacion: $APP_VERSION"
+      - echo "Version de la aplicacion $APP_VERSION"
       - export APP_VERSION_CB="$APP_VERSION"
       - echo "Restaurando dependencias..."
       - dotnet restore
