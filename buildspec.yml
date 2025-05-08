@@ -15,7 +15,7 @@ phases:
       - echo "Restaurando dependencias..."
       - dotnet restore
       - echo "Publicando la aplicación en modo Release..."
-      - "dotnet publish -c Release -o output /p:Version=\"$APP_VERSION\""
+      - "dotnet publish -c Release -o output"
   post_build:
     commands:
       - echo "Creando el paquete de despliegue (version $APP_VERSION_CB)..."
