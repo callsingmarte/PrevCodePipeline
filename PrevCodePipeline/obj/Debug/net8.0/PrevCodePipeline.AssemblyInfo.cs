@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrevCodePipeline")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c0e1c4b2fd4e072f298439925e315a80f30fb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aa080ed40e1f98a75b974290d2d63ab146603c0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrevCodePipeline")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrevCodePipeline")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

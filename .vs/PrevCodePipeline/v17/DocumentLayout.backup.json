@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\proyectosmastertajamar\\tareas\\aws\\prevcodepipeline\\prevcodepipeline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|c:\\users\\alumnos mcsd tarde\\documents\\github\\prevcodepipeline\\prevcodepipeline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F8B58B5-87CC-4F3F-A02C-F47BCC8491CA}|PrevCodePipeline\\PrevCodePipeline.csproj|solutionrelative:prevcodepipeline\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -88,76 +88,72 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\wwwroot\\css\\site.css",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "PrevCodePipeline\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\wwwroot\\css\\site.css",
               "RelativeToolTip": "PrevCodePipeline\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAEgAAAAAAAAAAAAAAFYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-08T14:43:06.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:43:06.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "PrevCodePipeline\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-08T14:40:25.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "PrevCodePipeline\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:38:11.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:38:11.708Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
               "RelativeToolTip": "PrevCodePipeline\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:38:14.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Contact.cshtml",
-              "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Home\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Contact.cshtml",
-              "RelativeToolTip": "PrevCodePipeline\\Views\\Home\\Contact.cshtml",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwC8AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-08T14:38:04.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:38:14.354Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "PrevCodePipeline\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T14:38:04.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\About.cshtml",
               "RelativeDocumentMoniker": "PrevCodePipeline\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Views\\Home\\About.cshtml",
               "RelativeToolTip": "PrevCodePipeline\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwB0AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-08T14:37:49.8Z",
               "EditorCaption": ""
@@ -166,14 +162,13 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "PrevCodePipeline\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\ProyectosMasterTajamar\\Tareas\\AWS\\PrevCodePipeline\\PrevCodePipeline\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Alumnos MCSD Tarde\\Documents\\GitHub\\PrevCodePipeline\\PrevCodePipeline\\Controllers\\HomeController.cs",
               "RelativeToolTip": "PrevCodePipeline\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAA4wBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T14:36:41.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T14:36:41.213Z"
             }
           ]
         },
