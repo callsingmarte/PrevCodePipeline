@@ -1,20 +1,21 @@
 version: 0.2
 phases:
-  install:
-    runtime-versions:
-      dotnet: 8.0
   build:
     commands:
+      - echo "Leyendo la versión de la aplicación..."
+      - APP_VERSION=$(cat VERSION.txt)
+      - echo "Versión de la aplicación: $APP_VERSION"
       - echo "Restaurando dependencias..."
       - dotnet restore
       - echo "Publicando la aplicación en modo Release..."
-      - dotnet publish -c Release -o output
+      - dotnet publish -c Release -o output /p:Version="$APP_VERSION" # Incluye la versión en la publicación
   post_build:
     commands:
-      - echo "Creando el paquete de despliegue..."
+      - echo "Creando el paquete de despliegue (versión $APP_VERSION)..."
       - cd output
-      - zip -r ../application.zip *
+      - zip -r ../application-$APP_VERSION.zip * # Incluye la versión en el nombre del ZIP
       - cd ..
 artifacts:
   files:
-    - application.zip
+    - application-$APP_VERSION.zip
+  name: application-$APP_VERSION
