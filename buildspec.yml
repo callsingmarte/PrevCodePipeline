@@ -5,17 +5,17 @@ env:
 phases:
   build:
     commands:
-      - echo "Leyendo la versión de la aplicación..."
+      - echo "Leyendo la version de la aplicacion..."
       - APP_VERSION=$(cat VERSION.txt)
       - echo "Version de la aplicacion: $APP_VERSION"
-      - export APP_VERSION_CB="$APP_VERSION" # Exportar como variable de entorno
+      - export APP_VERSION_CB="$APP_VERSION"
       - echo "Restaurando dependencias..."
       - dotnet restore
       - echo "Publicando la aplicación en modo Release..."
       - "dotnet publish -c Release -o output /p:Version=\"$APP_VERSION\""
   post_build:
     commands:
-      - echo "Creando el paquete de despliegue (versión $APP_VERSION_CB)..." # Usar la variable de entorno
+      - echo "Creando el paquete de despliegue (version $APP_VERSION_CB)..."
       - cd output
       - "zip -r ../application-$APP_VERSION_CB.zip *"
       - cd ..
