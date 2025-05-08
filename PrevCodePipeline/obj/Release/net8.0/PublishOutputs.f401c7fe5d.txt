@@ -1,0 +1,7 @@
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\PrevCodePipeline.exe
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\appsettings.Development.json
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\appsettings.json
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\PrevCodePipeline.dll
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\PrevCodePipeline.deps.json
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\PrevCodePipeline.runtimeconfig.json
+C:\Users\Alumnos MCSD Tarde\Documents\GitHub\ProyectosMasterTajamar\Tareas\AWS\PrevCodePipeline\publish\PrevCodePipeline.pdb
