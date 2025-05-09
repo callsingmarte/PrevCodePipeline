@@ -16,13 +16,8 @@ phases:
       - dotnet restore
       - echo "Publicando la aplicación en modo Release..."
       - "dotnet publish -c Release -o ./publish"
-  post_build:
-    commands:
-      - echo "Creando el paquete de despliegue (version $APP_VERSION_CB)..."
-      - cd publish
-      - "zip -r ../application-$APP_VERSION_CB.zip *"
-      - cd ..
 artifacts:
   files:
-    - application-*.zip
+    - '**/*'
+  base-directory: publish
   name: application.zip
